@@ -62,16 +62,6 @@
             "changeable": 1,
             "ext": "https://www.zjcvod.com"
         },
-                {
-      "key": "影酷Max",
-      "name": "影酷Max",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://106.55.167.17:8501/api.php/app/"
-        },
         {
             "key": "火花",
             "name": "火花｜APP",
@@ -1162,5 +1152,6 @@
     ]
 
 }
+
 
 
