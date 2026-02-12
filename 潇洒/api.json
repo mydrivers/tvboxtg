@@ -63,7 +63,7 @@
             "ext": "https://www.zjcvod.com"
         },
                 {
-      "key": "lvdou",
+      "key": "影酷Max",
       "name": "影酷Max",
       "type": 3,
       "api": "csp_AppYsV2",
@@ -1162,3 +1162,4 @@
     ]
 
 }
+
