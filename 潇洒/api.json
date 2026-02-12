@@ -773,7 +773,7 @@
         {
             "name": "虾米",
             "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
+            "url": "http://106.55.167.17:9525/?url=",
             "ext": {
                 "header": {
                     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
@@ -1162,4 +1162,5 @@
     ]
 
 }
+
 
